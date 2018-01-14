@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.Light.Dialog.MinWidth">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorPrimary">@color/primary_device_default_light</item>
+        <item name="android:colorAccent">@color/accent_device_default_light</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark_device_default_light</item>
+    </style>
+
+    <style name="just" parent="Theme.AppCompat.Light" >
+        <item name="colorPrimaryDark">@color/primary_dark_material_light_1</item>
+        <item name="android:colorBackground">@android:color/background_light</item>
+    </style>
+
+</resources>
